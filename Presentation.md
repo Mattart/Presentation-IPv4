@@ -5,6 +5,7 @@
 ----
 
 ## Adressierung
+
 IPv4 Adresse besteht aus 8 Byte bzw 32 Bits.
 Die IPv4 Adresse ist in 4 Teile unterteilt.
 Diese Teile heissen Oktetten.
@@ -25,6 +26,7 @@ Bei IPv4 wird nicht zwischen Hosts und Router unterschieden. Jedes Gerät kann s
 
 ----
 ## Blick in die Zukunft (IPv6)
+
 IPv4 adressen sind restlos aufgebraucht es gibt insgesammt 4 Milliarden ipv4 adressen
 den Technischenerfindern schien das 1980 für alle nur denkbaren Bedürfnisse mehr als ausreichend jedoch wurde ihnen anfang der 1990 jahre klar das die Adressen knapp wurden. Lösung hier für ist IPv6 diese bietet mehr als Sextillionen Adressen und ist seit 1998 standartisiert 
 =======
