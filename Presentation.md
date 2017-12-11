@@ -13,5 +13,5 @@
 ## Spezielle Adressen
 (Heze)
 ----
-## Conclusion/Blick in die Zukunft (IPv6)
+## Zusammenfassung/Blick in die Zukunft (IPv6)
 (Domi)
