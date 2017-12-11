@@ -28,6 +28,6 @@ Klassen, ich werde etwas zu A,B und C Klasse sagen.
 
 ![Anzahl](http://netzwerkassistent.de/upload/bilder/lernmodule/11-3_2.jpg)
 ----
-## Routing/TCP (Jones)
+## Routing/TCP 
 ----
-## Blick in die Zukunft (IPv6) (Domi)
+## Blick in die Zukunft (IPv6) 
