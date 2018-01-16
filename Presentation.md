@@ -27,11 +27,10 @@ Klassen, ich werde etwas zu A,B und C Klasse sagen.
 ----
 
 ## Routing
-(Jones)
 
 Bei IPv4 wird nicht zwischen Hosts und Router unterschieden. Jedes Gerät kann sowohl Endgerät als auch Vermittlungsgerät sein.
 IPv4 ist für LANs als Local Area Networks und WANs sprich Wide Area Networks gleichermassen geeignet.
-Bei der Übertragung, kann ein Paket verschiedene Netzwerke durchlaufen. Anhand von individuellen Routingtabellen, wird der Netzwerkteil einem 
+Bei der Übertragung, kann ein Paket verschiedene Netzwerke durchlaufen. Anhand von individuellen Routingtabellen, wird der Netzwerkteil einem
 Zielnetzwerk zugeordnet. Die Einträge können statisch oder dynamisch sein. Jedes Paket kann einzeln "geroutet" werden,
 das erhöt die Ausfallsicherheit. Jedoch können daher einzelne Pakete verloren gehen oder verschiedene
 Wege nehmen. Die Pakete können auch doppelt, und sogar fragmentiert beim Empfänger angkommen.
@@ -49,7 +48,6 @@ IPv4 adressen sind restlos aufgebraucht es gibt insgesammt 4 Milliarden ipv4 adr
 den Technischenerfindern schien das 1980 für alle nur denkbaren Bedürfnisse mehr als ausreichend jedoch wurde ihnen anfang der 1990 jahre klar das die Adressen knapp wurden. Lösung hier für ist IPv6 diese bietet mehr als Sextillionen Adressen und ist seit 1998 standartisiert
 =======
 =======
-## Routing/TCP 
+## Routing/TCP
 ----
-## Blick in die Zukunft (IPv6) 
-
+## Blick in die Zukunft (IPv6)
